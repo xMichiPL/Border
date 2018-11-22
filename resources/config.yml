@@ -1,1 +1,6 @@
-
+# Sends message
+message: "You cant fly away from the lobby!"
+# Sets your level world name.
+level: "Lobby"
+# Sets your distance.
+distance: "100"
